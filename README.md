@@ -8,9 +8,9 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/tristin7/racing-game-basic** and import
+* search for **https://msu-coders.github.io/racing-game-basic/** and import
 
-## Edit this project ![Build status badge](https://github.com/tristin7/racing-game-basic/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://msu-coders.github.io/racing-game-basic/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
