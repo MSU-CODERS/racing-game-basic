@@ -1,5 +1,5 @@
 
-> Open this page at [https://tristin7.github.io/racing-game-basic/](https://tristin7.github.io/racing-game-basic/)
+> Open this page at [https://msu-coders.github.io/racing-game-basic/](https://msu-coders.github.io/racing-game-basic/)
 
 ## Use as Extension
 
@@ -16,14 +16,14 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/tristin7/racing-game-basic** and click import
+* paste **https://msu-coders.github.io/racing-game-basic/** and click import
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/tristin7/racing-game-basic/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://msu-coders.racing-game-basic/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
