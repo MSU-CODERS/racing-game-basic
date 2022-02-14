@@ -1,7 +1,10 @@
 name: Check pxt.json
 
 on:
-  workflow_dispatch:
+  push:
+    branches:
+        - 'master'
+        - 'main'
     
 jobs:
   check-cfg:
